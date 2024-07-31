@@ -66,7 +66,6 @@ public class AccountService {
     }
 
     private void validateInitialBalance(BigDecimal initialBalance) {
-
         if (initialBalance.compareTo(BigDecimal.ZERO) < 0) {
             throw new AccountCreationException();
         }
