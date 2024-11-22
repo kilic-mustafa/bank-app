@@ -51,7 +51,7 @@ Update database settings in application.properties:
 
 4)Run the Application:
 
-mvn spring-boot:run
+    mvn spring-boot:run
 
 
 
