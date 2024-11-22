@@ -1,5 +1,5 @@
-
 # Bank App
+
 
 ## Description
 
@@ -11,9 +11,9 @@ Bank App is a banking application developed using Java Spring Boot, designed fol
 ## Features
 
 - Layered Architecture:
-  - Controller layer handles HTTP requests.
-  - Service layer contains business logic.
-  - Repository layer manages database operations.
+  - **Controller** layer handles HTTP requests.
+  - **Service** layer contains business logic.
+  - **Repository** layer manages database operations.
 - Account and customer management.
 - Authentication and authorization.
 - Money transfers and balance checks.
