@@ -18,7 +18,6 @@ Bank App is a banking application developed using Java Spring Boot, designed fol
 - Authentication and authorization.
 - Money transfers and balance checks.
 - Centralized error handling (Exception management)
-- Unit tests have been completed achieving 100% coverage.
 
 
 ## Testing
