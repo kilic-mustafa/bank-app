@@ -23,7 +23,6 @@ Bank App is a banking application developed using Java Spring Boot, designed fol
 ## Testing
 - Comprehensive unit tests were written for the Service Layer, ensuring proper functionality and reliability of core business logic.
 - Achieved 100% coverage for all service methods.
-Below is a screenshot demonstrating the test results:
 
 ![361246363-cc02a066-9d55-49b3-951f-03d2f6e15317](https://github.com/user-attachments/assets/c0210607-89d3-43a9-a266-d3f6ec472fae)
 
