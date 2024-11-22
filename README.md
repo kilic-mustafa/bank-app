@@ -54,17 +54,6 @@ Update database settings in application.properties:
     mvn spring-boot:run
 
 
-
-
-## Usage
-
-Sample Endpoints:
-
-- POST /api/accounts: Creates a new account.
-- GET /api/customers: Lists all customers.
-- POST /api/transactions: Executes a money transfer.
-
-
 ## Contributing
 
 To contribute to this project:
