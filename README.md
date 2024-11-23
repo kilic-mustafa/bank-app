@@ -34,22 +34,14 @@ Bank App is a banking application developed using Java Spring Boot, designed fol
 - Java 17+
 - Maven
 - MySQL
-
+  
 2)Installation:
 
     git clone https://github.com/kilic-mustafa/bank-app.git
     cd bank-app
     mvn clean install
 
-3)Database Configuration:
-
-Update database settings in application.properties:
-
-    spring.datasource.url=jdbc:mysql://localhost:3306/bank_app
-    spring.datasource.username=YOUR_DB_USERNAME
-    spring.datasource.password=YOUR_DB_PASSWORD
-
-4)Run the Application:
+3)Run the Application:
 
     mvn spring-boot:run
 
