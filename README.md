@@ -38,7 +38,9 @@ Bank App is a banking application developed using Java Spring Boot, designed fol
 2)Installation:
 
     git clone https://github.com/kilic-mustafa/bank-app.git
+    
     cd bank-app
+    
     mvn clean install
 
 3)Run the Application:
